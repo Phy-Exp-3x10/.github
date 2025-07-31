@@ -1,6 +1,6 @@
-# Theta Software Group
+# Thetasoft
 
-Theta Software Group was created to simplify repetitive data analysis in Python, especially in experimental research.
+Thetasoft was created to simplify repetitive data analysis in Python, especially in experimental research.
 
 ## Wulkplot
 
