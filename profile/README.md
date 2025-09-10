@@ -1,6 +1,6 @@
 # Thetasoft
 
-Thetasoft was created to simplify repetitive data analysis in Python, especially in experimental research.
+Thetasoft was created to simplify repetitive data analysis in Python, especially in experimental research. For a quick overview of everything check out the [thetasoft](https://github.com/thetasoft/thetasoft) repo.
 
 ## Wulkplot
 
